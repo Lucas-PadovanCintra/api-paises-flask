@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# venv
+venv/
+
+# env
+.env
+
+# VS Code
+.vscode/
+
+# mac/linux
+.DS_Store
+
+# pytest
+.pytest_cache/
+
+# docker
+*.log
+
+# secrets
+.env.*
