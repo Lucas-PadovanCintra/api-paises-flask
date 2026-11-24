@@ -4,10 +4,11 @@ API REST desenvolvida em Python utilizando Flask, com foco em arquitetura limpa,
 
 ---
 
-## Demonstração
+## Deploy e demonstração
 
-🔗 **API em produção (Cloud Run):**
-https://api-paises-363649791380.southamerica-east1.run.app
+A aplicação foi implantada no Google Cloud Run utilizando Docker, como parte da experiência prática de publicação de APIs REST em ambiente de nuvem.
+
+**Status atual:** o ambiente em nuvem está desativado. A aplicação pode ser executada localmente.
 
 ### Exemplos:
 
